@@ -1,0 +1,19 @@
+{
+  "name": "react-accessibilty",
+  "version": "1.0.0",
+  "description": "Experiments in React accesibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evadb/react-accessibility.git"
+  },
+  "author": "Eva Demers-Brett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evadb/react-accessibility/issues"
+  },
+  "homepage": "https://github.com/evadb/react-accessibility#readme"
+}
